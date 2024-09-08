@@ -1,7 +1,7 @@
 <?php
 include_once './db.php';
 include_once './Modelo.php';
-
+//kjskjskjskjkjskskjsjkjksjsjsk
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Obtener los valores de los números enviados por el formulario
     $nombre = $_POST["nombre"];
